@@ -1,6 +1,5 @@
 # Heartbeat-Bot
 COVID-19自宅療養者向けソリューション(開発中)  
-導入コストを抑えた[廉価版](https://github.com/Uma919/Heartbeat-Bot-Lite.git)もございます．  
 <img src="./doc/doc.jpg" width="640px">
 
 
